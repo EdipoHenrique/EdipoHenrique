@@ -14,10 +14,6 @@ Sou um profissional apaixonado por tecnologia com mais de 10 anos de experiênci
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
-**Web & Interface:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
 **Gestão e Operações:**
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=servicenow&logoColor=white)
 ![IT Projects](https://img.shields.io/badge/Projetos_TI-00599C?style=for-the-badge&logo=microsoft-project&logoColor=white)
